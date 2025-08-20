@@ -15,7 +15,8 @@ Key strengths include:
 
 # Lessons
 
-|     | Focus Area                         | Key Outcomes                                   |
-| --- | ---------------------------------- | ---------------------------------------------- |
-| 1   | Intro & Setup                      | Terraform basics, `init`, `plan`, `apply`      |
-| 2   | Network Infrastructure             | VPC, subnets, IGWs, routing                    |
+| # | Focus Area             | Key Outcomes                                                          |
+| - | ---------------------- | --------------------------------------------------------------------- |
+| 1 | Introduction & Setup   | Understand Terraform fundamentals: `init`, `plan`, `apply`            |
+| 2 | Network Infrastructure | Build VPCs, subnets, Internet gateways, and routing                   |
+| 3 | Two-Tier Architecture  | Design and deploy a basic two-tier system (public and private layers) |
